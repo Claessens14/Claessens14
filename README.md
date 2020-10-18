@@ -7,11 +7,11 @@ Readme.md
 
 <!-- - 📝 I regulary write articles on [___](___) -->
 
-- 📫 How to reach me **claessej@uoguelph.ca**
+- 📫 How to reach me: **claessej@uoguelph.ca**
 
 - 📄 Know about my experiences at [Linkedin <a href="https://linkedin.com/in/https://www.linkedin.com/in/jacob-claessens-890504134/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jacob-claessens-890504134/" height="13" width="16" /></a>](https://www.linkedin.com/in/jacob-claessens-890504134/)
 
-- ⚡ Fun fact: **I know how to drive a zamboni**
+- ⚡ Fun fact: **I know how to drive a zamboni**  <img align="center" src="https://p7.hiclipart.com/preview/442/227/701/ice-resurfacer-zamboni-company-the-zamboni-ice-hockey-machine-others.jpg"  height="13" width="16" />
 <!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,4 +40,4 @@ Readme.md
 <a href="https://www.arduino.cc/" target="_blank"> 
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> -->
 </p>
-## Checkout some of my work below..
+<h3 align="left">Checkout some of my work below..</h3>
