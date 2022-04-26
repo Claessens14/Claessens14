@@ -3,7 +3,7 @@ Readme.md
 <h1 align="center">Hi 👋, I'm Jacob</h1>
 <h3 align="center">An Engineer From Canada 🇨🇦</h3>
 
-- 🔭 I’m currently working on school, an [Capital Markets Framework](https://github.com/Claessens14/Engineering--Capital-Markets) & Blog
+- 🔭 I’m currently working on school, an [Capital Markets Framework / Blog](https://github.com/Claessens14/Capital-Markets-Engineering-ReBorn)
 
 <!-- - 📝 I regulary write articles on [___](___) -->
 
