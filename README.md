@@ -3,7 +3,7 @@ Readme.md
 <h1 align="center">Hi 👋, I'm Jacob</h1>
 <h3 align="center">An Engineer From Canada 🇨🇦</h3>
 
-- 🔭 I’m currently doing a masters in Machine Learning, specializing in artificial intelligence for control and navigation with Deep Reinforcement Learning, sometimes I write/code in [Capital Markets Framework / Blog](https://github.com/Claessens14/Capital-Markets-Engineering-ReBorn)
+- 🔭 I’m currently doing a masters in Machine Learning, specializing in artificial intelligence for control and navigation with Deep Reinforcement Learning.
 
 <!-- - 📝 I regulary write articles on [___](___) -->
 
@@ -13,6 +13,7 @@ Readme.md
 
 - ⚡ Fun fact: **I know how to drive a zamboni**  <img align="center" src="https://p7.hiclipart.com/preview/442/227/701/ice-resurfacer-zamboni-company-the-zamboni-ice-hockey-machine-others.jpg"  height="13" width="16" />
 <!--
+, sometimes I write/code in [Capital Markets Framework / Blog](https://github.com/Claessens14/Capital-Markets-Engineering-ReBorn)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/___" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="___" height="30" width="40" /></a> 
