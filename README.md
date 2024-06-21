@@ -7,7 +7,7 @@ Readme.md
 
 <!-- - 📝 I regulary write articles on [___](___) -->
 
-- 📫 How to reach me: **claessej@uoguelph.ca**
+- 📫 How to reach me: **jacobwclaessens@gmail.com**
 
 - 📄 Know about my experiences at [Linkedin <a href="https://linkedin.com/in/https://www.linkedin.com/in/jacob-claessens-890504134/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jacob-claessens-890504134/" height="13" width="16" /></a>](https://www.linkedin.com/in/jacob-claessens-890504134/)
 
