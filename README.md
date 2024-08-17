@@ -3,8 +3,6 @@ Readme.md
 <h1 align="center">Hi 👋, I'm Jacob</h1>
 <h3 align="center">An Engineer From Canada 🇨🇦</h3>
 
-- 🔭 I’m currently doing a masters in Machine Learning, specializing in artificial intelligence for control and navigation with Deep Reinforcement Learning.
-
 <!-- - 📝 I regulary write articles on [___](___) -->
 
 - 📫 How to reach me: **jacobwclaessens@gmail.com**
